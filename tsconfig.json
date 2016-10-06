@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "module": "commonjs",
+        "target": "es3",
+        "rootDir": "./src",
+        "outDir": "./lib",
+        "experimentalDecorators": true,
+        "types": [
+            "mocha",
+            "sinon"
+        ]
+    }
+}
